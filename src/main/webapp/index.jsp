@@ -39,7 +39,6 @@
     <!-- ------------------ Carousel ------------------ -->
     <div class="carousel-container">
         <div class="carousel">
-            <!-- <div class="slider">
                 <div class="slide-content">
                     <h1 class="movie-title">loki</h1>
                     <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
